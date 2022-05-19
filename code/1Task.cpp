@@ -1,7 +1,13 @@
+// Basic of C++ Task using  loops
+
+/*
+Tack input of array from user. After that print all individul elemant. and check 
+if any elemant repeting or not, if yes print that elemant along with number of 
+occurance it from the given input
+*/
+
 #include <bits/stdc++.h>
-
 using namespace std;
-
 
 int main() {
     
