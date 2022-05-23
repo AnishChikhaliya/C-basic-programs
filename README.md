@@ -1,6 +1,6 @@
 # C-basic-programs
 <h2>C++ all basic topics code you simply undersatnd and improve your logic </h2> <br/>
-<strong> Hello Frinds My Self Anish Chikhaliya </strong><br/>
+<strong> Hello 🙋‍♂️ Frinds My Self Anish Chikhaliya </strong><br/>
 Below Provide All the Topic Name you Study  <br/>
 <ol>
   <li>Frist of all provide the task using loops if you don't know loops. <a href="https://www.w3schools.in/cplusplus/loops">click hear</a> </li>
