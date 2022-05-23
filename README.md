@@ -1,5 +1,5 @@
 # C-basic-programs
-<h2>C++ all basic topics code you simple undersatnd and improve your logic </h2> <br/>
+<h2>C++ all basic topics code you simply undersatnd and improve your logic </h2> <br/>
 <strong> Hello Frinds My Self Anish Chikhaliya </strong><br/>
 Below Provide All the Topic Name you Study  <br/>
 <ol>
