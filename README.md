@@ -4,7 +4,7 @@
 Below Provide All the Topic Name you Study  <br/>
 <ol>
   <li>Frist of all provide the task using loops if you don't know loops. <a href="https://www.w3schools.in/cplusplus/loops">click hear</a> </li>
-  <li><a href="https://www.w3schools.com/CPP/cpp_arrays.asp">Array<a/> For basic if you alredy know than skip it.</li>
+  <li><a href="https://www.w3schools.com/CPP/cpp_arrays.asp">Array</a> For basic if you alredy know than skip it.</li>
   <li><a href="https://www.w3schools.com/CPP/cpp_pointers.asp">Pointers</a></li>
   <li><a href="https://www.w3schools.com/CPP/cpp_functions.asp">How to Creat a Function</a></li>
   <li>Errors in C++ programing </li>
@@ -18,5 +18,6 @@ Below Provide All the Topic Name you Study  <br/>
   <li><a href="https://www.geeksforgeeks.org/multiset-in-cpp-stl/?ref=lbp">SET or MULTISET</a></li>
   <li><a href="https://www.geeksforgeeks.org/c-magicians-stl-algorithms/?ref=lbp">Basic Algorithem in STL</a></li>
   <li><a href="https://www.geeksforgeeks.org/binary-search/?ref=lbp">Binary Search </a></li>
+  <li><a href="https://www.geeksforgeeks.org/searching-algorithms/?ref=lbp">All Searching Algorithem</a></li>
 </ol>
 
