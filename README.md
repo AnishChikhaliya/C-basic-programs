@@ -19,5 +19,7 @@ Below Provide All the Topic Name you Study  <br/>
   <li><a href="https://www.geeksforgeeks.org/c-magicians-stl-algorithms/?ref=lbp">Basic Algorithem in STL</a></li>
   <li><a href="https://www.geeksforgeeks.org/binary-search/?ref=lbp">Binary Search </a></li>
   <li><a href="https://www.geeksforgeeks.org/searching-algorithms/?ref=lbp">All Searching Algorithem</a></li>
+  <li><a href="https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/">Binary Bitwise Opration</a></li>
+  <li><a href="https://www.geeksforgeeks.org/bits-manipulation-important-tactics/?ref=lbp">Bits manipulation (Important tactics)</a></li>
 </ol>
 
