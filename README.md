@@ -2,6 +2,9 @@
 <h2>C++ all basic topics code you simply undersatnd and improve your logic </h2> <br/>
 <strong> Hello 🙋‍♂️ Frinds My Self Anish Chikhaliya </strong><br/>
 Below Provide All the Topic Name you Study  <br/>
+
+![](..%5C..%5Claptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.webp)
+
 <ol>
   <li>Frist of all provide the task using loops if you don't know loops. <a href="https://www.w3schools.in/cplusplus/loops">click hear</a> </li>
   <li><a href="https://www.w3schools.com/CPP/cpp_arrays.asp">Array</a> For basic if you alredy know than skip it.</li>
@@ -21,5 +24,7 @@ Below Provide All the Topic Name you Study  <br/>
   <li><a href="https://www.geeksforgeeks.org/searching-algorithms/?ref=lbp">All Searching Algorithem</a></li>
   <li><a href="https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/">Binary Bitwise Opration</a></li>
   <li><a href="https://www.geeksforgeeks.org/bits-manipulation-important-tactics/?ref=lbp">Bits manipulation (Important tactics)</a></li>
+  <li><a href="https://www.geeksforgeeks.org/sieve-of-eratosthenes/?ref=lbp"> Sieve Algorithem</a></li>
 </ol>
 
+![](..%5C..%5Claptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.webp)
