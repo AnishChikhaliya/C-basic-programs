@@ -3,7 +3,7 @@
 <strong> Hello 🙋‍♂️ Frinds My Self Anish Chikhaliya </strong><br/>
 Below Provide All the Topic Name you Study  <br/>
 
-![](..%5C..%5Claptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.webp)
+![This is an image](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=996&t=st=1654171695~exp=1654172295~hmac=0591088bdae948fc25c8105de2f096f75bd857a2e9e4189ff198fcc7213f8799)
 
 <ol>
   <li>Frist of all provide the task using loops if you don't know loops. <a href="https://www.w3schools.in/cplusplus/loops">click hear</a> </li>
@@ -26,5 +26,3 @@ Below Provide All the Topic Name you Study  <br/>
   <li><a href="https://www.geeksforgeeks.org/bits-manipulation-important-tactics/?ref=lbp">Bits manipulation (Important tactics)</a></li>
   <li><a href="https://www.geeksforgeeks.org/sieve-of-eratosthenes/?ref=lbp"> Sieve Algorithem</a></li>
 </ol>
-
-![](..%5C..%5Claptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.webp)
