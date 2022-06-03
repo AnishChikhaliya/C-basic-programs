@@ -1,7 +1,7 @@
 # C-basic-programs
 <h2>C++ all basic topics code you simply undersatnd and improve your logic </h2> <br/>
-<strong> Hello 🙋‍♂️ Frinds My Self Anish Chikhaliya </strong><br/>
-Below Provide All the Topic Name you Study  <br/>
+<h2 style="text-align:center;"> Hello 🙋‍♂️ Frinds My Self Anish Chikhaliya </h2><br/>
+<h4 style="text-align:center;"> Below Provide All the Topic Name you Study </h4> <br/>
 
 ![This is an image](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=996&t=st=1654171695~exp=1654172295~hmac=0591088bdae948fc25c8105de2f096f75bd857a2e9e4189ff198fcc7213f8799)
 
