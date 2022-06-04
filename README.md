@@ -5,6 +5,9 @@
 
 ![This is an image](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=996&t=st=1654171695~exp=1654172295~hmac=0591088bdae948fc25c8105de2f096f75bd857a2e9e4189ff198fcc7213f8799)
 
+
+![This is an gif](https://www.canva.com/design/DAFCiUbG1jU/TzTgfry95QbPobgwAggVhA/watch?utm_content=DAFCiUbG1jU&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
+
 <ol>
   <li>Frist of all provide the task using loops if you don't know loops. <a href="https://www.w3schools.in/cplusplus/loops">click hear</a> </li>
   <li><a href="https://www.w3schools.com/CPP/cpp_arrays.asp">Array</a> For basic if you alredy know than skip it.</li>
