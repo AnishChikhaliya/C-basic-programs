@@ -25,4 +25,11 @@
   <li><a href="https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/">Binary Bitwise Opration</a></li>
   <li><a href="https://www.geeksforgeeks.org/bits-manipulation-important-tactics/?ref=lbp">Bits manipulation (Important tactics)</a></li>
   <li><a href="https://www.geeksforgeeks.org/sieve-of-eratosthenes/?ref=lbp"> Sieve Algorithem</a></li>
+  <li><a href="https://www.section.io/engineering-education/graphs-in-data-structure-using-cplusplus/"> What is Graph?</a></li>
+  <li><a href="https://www.geeksforgeeks.org/binary-tree-set-1-introduction/"> What is Tree ?</a></li>
+  <li><a href="https://iq.opengenus.org/graph-representation-adjacency-matrix-adjacency-list/"> What is List and Matrix in c++?</a></li>
+  <li><a href="https://www.tutorialspoint.com/difference-between-bfs-and-dfs#:~:text=BFS%2C%20stands%20for%20Breadth%20First,to%20find%20the%20shortest%20path."> what is DFS and BFS?
+  </a></li>
+  <li><a href="https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/">  BFS Algorithem </a></li>
+  <li><a href="https://www.programiz.com/dsa/graph-dfs">  DFS Algorithem </a></li>
 </ol>
