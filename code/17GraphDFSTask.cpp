@@ -37,7 +37,9 @@ Thus dfs will be 0 1 2 4 3.
 using namespace std;
 
 void DFSUtil(int i, vector<int> adj[], int V, bool vis[],vector<int> &res) {
-
+     
+        //** Take a action on vertex after entering the vertex. **//
+     
         if (vis[i]) return;
 
         // marking vertex as visited and adding it to output list.
@@ -47,9 +49,18 @@ void DFSUtil(int i, vector<int> adj[], int V, bool vis[],vector<int> &res) {
         // iterating over connected components of the vertex and if any
         // of them is not visited then calling the function recursively.
         for (int j : adj[i]) {
+         
+        //** Take a action on child after entering child. **//
+
             if (!vis[j]) DFSUtil(j, adj, V, vis, res);
+
+        //** Take a action on child after exiting the child. **//
+
         }
-    } 
+
+        //** Take a action on vertex after exiting the vertex. **//
+    }
+
     vector<int> dfsOfGraph(int V, vector<int> adj[]) {
         bool vis[V];
         memset(vis, false, sizeof(vis)); // Memset() is a C++ function. It copies a single character for a specified number of times to an object.
