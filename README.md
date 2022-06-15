@@ -19,17 +19,21 @@
   <li><a href="https://www.geeksforgeeks.org/introduction-iterators-c/?ref=lbp">Iterators in C++</a></li>
   <li>Short Method of <a href="https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/?ref=lbp"> Maps </a>, <a href="https://www.geeksforgeeks.org/iterators-c-stl/?ref=lbp">iterators</a></li>
   <li><a href="https://www.geeksforgeeks.org/multiset-in-cpp-stl/?ref=lbp">SET or MULTISET</a></li>
-  <li><a href="https://www.geeksforgeeks.org/c-magicians-stl-algorithms/?ref=lbp">Basic Algorithem in STL</a></li>
+  <li><a href="https://www.geeksforgeeks.org/c-magicians-stl-algorithms/?ref=lbp">Basic Algorithm in STL</a></li>
   <li><a href="https://www.geeksforgeeks.org/binary-search/?ref=lbp">Binary Search </a></li>
-  <li><a href="https://www.geeksforgeeks.org/searching-algorithms/?ref=lbp">All Searching Algorithem</a></li>
+  <li><a href="https://www.geeksforgeeks.org/searching-algorithms/?ref=lbp">All Searching Algorithm</a></li>
   <li><a href="https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/">Binary Bitwise Opration</a></li>
   <li><a href="https://www.geeksforgeeks.org/bits-manipulation-important-tactics/?ref=lbp">Bits manipulation (Important tactics)</a></li>
-  <li><a href="https://www.geeksforgeeks.org/sieve-of-eratosthenes/?ref=lbp"> Sieve Algorithem</a></li>
+  <li><a href="https://www.geeksforgeeks.org/sieve-of-eratosthenes/?ref=lbp"> Sieve Algorithm</a></li>
   <li><a href="https://www.section.io/engineering-education/graphs-in-data-structure-using-cplusplus/"> What is Graph?</a></li>
   <li><a href="https://www.geeksforgeeks.org/binary-tree-set-1-introduction/"> What is Tree ?</a></li>
   <li><a href="https://iq.opengenus.org/graph-representation-adjacency-matrix-adjacency-list/"> What is List and Matrix in c++?</a></li>
   <li><a href="https://www.tutorialspoint.com/difference-between-bfs-and-dfs#:~:text=BFS%2C%20stands%20for%20Breadth%20First,to%20find%20the%20shortest%20path."> what is DFS and BFS?
   </a></li>
-  <li><a href="https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/">  BFS Algorithem </a></li>
-  <li><a href="https://www.programiz.com/dsa/graph-dfs">  DFS Algorithem </a></li>
+  <li><a href="https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/">  BFS Algorithm </a></li>
+  <li><a href="https://www.programiz.com/dsa/graph-dfs">  DFS Algorithm </a></li>
+  <li><a href="https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/?ref=lbp">  BFS Algorithm </a></li>
+  <li><a href="https://www.programiz.com/dsa/graph-dfs">  BFS 0 - 1 Algorithm </a></li>
+  <li><a href="https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/">  Dijkstra Algorithm </a></li>
+  <li><a href="https://www.programiz.com/dsa/graph-dfs">  Floyd-Warshall Algorithm </a></li>
 </ol>
