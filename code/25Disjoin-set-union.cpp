@@ -17,7 +17,7 @@ void make(int v){
 }
 
 int find(int v){
-    if(v == prant[v]) return v;
+    if(v == prant[v]) return prant[v];
     // Path Compration 
     return prant[v] = find(prant[v]);
 }
