@@ -1,3 +1,9 @@
+/*
+     Kruskal's Algorithm and also know as a Minimum Spining Tree 
+     used to convert Graph into Tree.
+
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
