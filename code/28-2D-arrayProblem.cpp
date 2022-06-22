@@ -25,12 +25,12 @@ int main(){
             s1 += a[i][j];
             s2 += a[j][i];
         }
+      
+}
         if (s1 == s2){
             cout << 'T' << endl;
     }else {
         cout << 'F' << endl;
     }
-      
-}
 
 }
